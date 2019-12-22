@@ -52,7 +52,7 @@ body {
     margin-right: 3px; }
   
   .chip-job {
-    color: #fff;
+    color: rgba(0, 0, 0, 0.6);
     font-size: 1em;
     background:pink;
     filter: alpha(opacity=60);
