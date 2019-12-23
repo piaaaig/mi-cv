@@ -3535,7 +3535,6 @@
           line-height: 32px; }
     .card .card-action {
       background-color: inherit;
-      border-top: 1px solid rgba(160, 160, 160, 0.2);
       position: relative;
       padding: 16px 24px; }
       .card .card-action:last-child {
