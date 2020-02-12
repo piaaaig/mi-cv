@@ -6042,6 +6042,33 @@
     fill: #00b0ff; }
   
   /* Footer */
+  .btn, .btn-large, .btn-small {
+    text-decoration: none;
+      color: #fff;
+      background-color: pink;
+      text-align: center;
+      letter-spacing: .5px;
+      transition: background-color .2s ease-out;
+      cursor: pointer;
+  }
+  .prefix ~ label {
+    margin-left: 0px;
+  }
+
+  .button, input {
+    overflow: visible;
+    width: 490px;
+    line-height: inherit;
+    padding: 0;
+}
+
+.form-control {
+  height: auto;
+    padding: .6rem 0 .4rem 0;
+    margin: 0 0 .5rem 0;
+    background-color: transparent;
+    border-radius: 0;
+}
   .timepicker-footer {
     margin: 0 auto;
     padding: 5px 1rem;
@@ -6072,3 +6099,4 @@
       bottom: auto;
       text-align: center;
       margin-top: 1.2rem; } }
+
