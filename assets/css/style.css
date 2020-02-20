@@ -45,7 +45,7 @@ body {
     margin-top: 14px; }
   
   .chip {
-    background-color: pink;
+    background-color:pink;
     font-size: 12.5px;
     font-weight: 700;
     margin-bottom: 3px;
@@ -57,7 +57,7 @@ body {
     background:pink;
     filter: alpha(opacity=60);
     -moz-opacity: 0.60;
-    opacity: 0.6; }
+   }
   
   .card .card-action a:not(.btn):not(.btn-large):not(.btn-small):not(.btn-large):not(.btn-floating) {
     margin: 0 12px;

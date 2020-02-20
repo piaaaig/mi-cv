@@ -2715,7 +2715,7 @@
           left: auto;
           right: auto; }
         .row .col.m2 {
-          width: 16.66667%;
+          width: 7.66667%;
           margin-left: auto;
           left: auto;
           right: auto; }
@@ -4242,7 +4242,7 @@
     line-height: 32px;
     padding: 0 12px;
     border-radius: 16px;
-    background-color: pink;
+    background-color: rgb(102, 217, 238);
     margin-bottom: 5px;
     margin-right: 5px; }
     .chip:focus {
