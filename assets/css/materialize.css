@@ -6100,3 +6100,11 @@
       text-align: center;
       margin-top: 1.2rem; } }
 
+      @media only screen and (max-width: 590px) {
+      .row .col.m2 {
+      width: 7.66667%;
+      margin-left: auto;
+      left: auto;
+      right: auto;
+}
+      }
